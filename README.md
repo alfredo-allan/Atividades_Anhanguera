@@ -1,93 +1,94 @@
-1️⃣ Sistema Distribuído RPC – Python
-
-Resumo para repositório de introduções
-
+# 1️⃣ Sistema Distribuído RPC – Python  
 ## 🔗 Sistema Distribuído RPC – Python
 Implementação simples de um sistema RPC usando XML-RPC para demonstrar o funcionamento cliente-servidor em sistemas distribuídos.  
 Inclui servidor, cliente interativo, logs e uma demo automática de conversão de textos para maiúsculas.
 
-**Repositório:**https://github.com/alfredo-allan/Sistema-Distribu-do-RMI
-**Página:**https://alfredo-allan.github.io/Sistema-Distribu-do-RMI/index.html
+**Repositório:** https://github.com/alfredo-allan/Sistema-Distribu-do-RMI  
+**Página:** https://alfredo-allan.github.io/Sistema-Distribu-do-RMI/index.html  
 
 
-2️⃣ Manipulação do DOM — JavaScript
+---
 
-Descrição simples
-
+# 2️⃣ Manipulação do DOM — JavaScript  
 ## 🟡 Manipulação do DOM — JavaScript
-Projeto básico focado em manipulação do DOM com JavaScript, aplicando eventos, alteração dinâmica de elementos e interação direta com a página.
+Projeto básico focado em manipulação do DOM com JavaScript, aplicando eventos, alteração dinâmica de elementos e interatividade na página.
 
 **Repositório:** https://github.com/alfredo-allan/manp_dom  
-**Página:** https://alfredo-allan.github.io/manp_dom/
+**Página:** https://alfredo-allan.github.io/manp_dom/  
 
-3️⃣ Sistemas Distribuídos — Página HTML Renderizada
 
-Resumo do README completo
+---
 
+# 3️⃣ Sistemas Distribuídos — Página HTML Renderizada  
 ## 📘 Sistemas Distribuídos — Conteúdo Renderizado
-Página HTML que reúne conteúdo teórico e prático sobre Sistemas Distribuídos.  
-Inclui conceitos, classificações, comparações, modelos computacionais, código Python demonstrativo e um terminal estilizado exibindo a execução simulada.
+Página HTML reunindo conteúdo teórico e prático sobre Sistemas Distribuídos.  
+Inclui modelos, classificações, comparações, demonstrações em Python e terminal renderizado com saída real da execução.
 
-A página apresenta:
-- Introdução aos modelos cliente-servidor, P2P e arquiteturas distribuídas.  
-- Classificação: sistemas centralizados, paralelos e distribuídos.  
-- Demonstrações reais em Python (multiprocessing, threads, centralizado).  
-- Terminal completo com saída da execução.  
-- Conteúdo usado como apoio em aula e no Colab.  
+A página apresenta:  
+- Modelos cliente-servidor, P2P e distribuídos  
+- Classificação de sistemas centralizados, paralelos e distribuídos  
+- Demonstrações em Python com multiprocessing e threads  
+- Terminal estilizado exibindo a execução  
 
-**Repositório:** https://github.com/alfredo-allan/sistemas_distribuidos_gr
-**Página:** https://alfredo-allan.github.io/sistemas_distribuidos_gr/ 
+**Repositório:** https://github.com/alfredo-allan/sistemas_distribuidos_gr  
+**Página:** https://alfredo-allan.github.io/sistemas_distribuidos_gr/  
 
-4️⃣ Resumo — Engenharia de Software
 
+---
+
+# 4️⃣ Resumo — Engenharia de Software  
 ## 🧩 Resumo — Engenharia de Software
-Página web responsiva apresentando um resumo de Engenharia de Software, abordando conceitos fundamentais, métodos, princípios e histórico da crise do software.  
-Inclui seções sobre aplicações, metodologias ágeis e tradicionais, e princípios essenciais da disciplina.
+Página responsiva apresentando os principais conceitos de Engenharia de Software, incluindo métodos, princípios, aplicações e histórico da crise do software.
 
 **Repositório:** https://github.com/alfredo-allan/software-engineering  
-**Página:** https://alfredo-allan.github.io/software-engineering/
+**Página:** https://alfredo-allan.github.io/software-engineering/  
 
-5️⃣ MRR — Metodologias Ágeis / Projeto de Software
 
+---
+
+# 5️⃣ MRR — Metodologias Ágeis / Projeto de Software  
 ## 🚀 MRR — Metodologia Ágil em Projeto de Software
-Landing page simples e objetiva apresentando o modelo MRR aplicado ao desenvolvimento ágil.  
-O projeto aborda visão geral do método, etapas principais, benefícios, foco no cliente e fluxo de entrega contínua.
+Landing page apresentando o modelo MRR aplicado ao desenvolvimento ágil, incluindo etapas, benefícios, fluxo contínuo e foco no cliente.
 
 **Repositório:** https://github.com/alfredo-allan/MRR-LANDINGPAGE  
-**Página:** https://alfredo-allan.github.io/MRR-LANDINGPAGE/
+**Página:** https://alfredo-allan.github.io/MRR-LANDINGPAGE/  
 
-6️⃣ 📱 AVALIACELL — Plataforma de Avaliação de Dispositivos
 
-AVALIACELL é uma plataforma voltada para avaliar dispositivos móveis com base em dados verificados de especialistas. O projeto segue o modelo Iterativo Incremental, garantindo entregas rápidas, melhorias contínuas e adaptação às necessidades reais dos usuários.
+---
 
-### 🎯 Objetivo
-Fornecer avaliações confiáveis, transparentes e atualizadas sobre smartphones, apresentando rankings, consultas individuais e documentação clara do processo.
+# 6️⃣ AVALIACELL — Plataforma de Avaliação de Dispositivos  
+## 📱 AVALIACELL — Plataforma de Avaliação de Dispositivos
+Plataforma de avaliação de dispositivos móveis baseada em dados verificados de especialistas.  
+Segue o modelo Iterativo Incremental, permitindo entregas rápidas e melhorias contínuas.
 
-### 🧩 Destaques do Projeto
-- Modelo Iterativo Incremental para entregas rápidas e validação constante  
-- Dados verificados por profissionais credenciados  
-- Atualização mensal de avaliações  
-- MVP completo com página inicial, rankings, busca e sobre o projeto  
+### 🎯 Objetivo  
+Fornecer avaliações confiáveis, transparentes e sempre atualizadas.
 
-### 👥 Equipe
+### 🧩 Destaques  
+- Modelo Iterativo Incremental  
+- Dados de especialistas  
+- Atualizações mensais  
+- MVP completo com rankings, busca e página informativa  
+
+### 👥 Equipe  
 - **Líder de Produto:** Gustavo Zonato  
 - **Requisitos:** Gustavo Silva  
 - **Desenvolvedor:** Alfredo  
 - **Qualidade/Documentação:** Rian  
 
-### 🛠️ Stack Tecnológica
+### 🛠️ Stack Tecnológica  
 **Frontend:** HTML5, CSS3, Bootstrap 5.3, JavaScript ES6+  
 **Backend:** Python, Flask, FastAPI  
-**Banco de Dados:** SQLite / PostgreSQL  
+**Banco:** SQLite / PostgreSQL  
 
-### 🚀 Funcionalidades do MVP
-- Página inicial informativa  
+### 🚀 Funcionalidades  
+- Página inicial  
 - Ranking dos melhores e piores dispositivos  
-- Busca individual por avaliações  
-- Documentação técnica do projeto  
+- Busca individual  
+- Documentação técnica  
 
-### 🌟 Diferenciais
-Transparência total, dados especializados, atualização contínua e interface simples.
+### 🌟 Diferenciais  
+Transparência, dados especializados e atualizações constantes.
 
 **Repositório:** https://github.com/alfredo-allan/AVALIACELL  
 **Página:** https://alfredo-allan.github.io/AVALIACELL/
