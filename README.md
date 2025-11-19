@@ -6,8 +6,8 @@ Resumo para repositório de introduções
 Implementação simples de um sistema RPC usando XML-RPC para demonstrar o funcionamento cliente-servidor em sistemas distribuídos.  
 Inclui servidor, cliente interativo, logs e uma demo automática de conversão de textos para maiúsculas.
 
-**Repositório:** https://github.com/alfredo-allan/Sistema-Distribu-do-RMI
-**Página (deploy):** https://alfredo-allan.github.io/Sistema-Distribu-do-RMI/index.html
+**Repositório:**https://github.com/alfredo-allan/Sistema-Distribu-do-RMI
+**Página:**https://alfredo-allan.github.io/Sistema-Distribu-do-RMI/index.html
 
 
 2️⃣ Manipulação do DOM — JavaScript
