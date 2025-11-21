@@ -92,3 +92,57 @@ Transparência, dados especializados e atualizações constantes.
 
 **Repositório:** https://github.com/alfredo-allan/AVALIACELL  
 **Página:** https://alfredo-allan.github.io/AVALIACELL/
+
+# 7️⃣ Design Thinking — Princípios e Caso de Uso
+
+## 📘 Design Thinking — Princípios, Explicação e Aplicação
+
+Página apresentando os 5 princípios fundamentais do Design Thinking, com explicações diretas e aplicação prática em contexto educacional.
+
+O conteúdo aborda:
+
+- Entendimento profundo do usuário (Empatia)  
+- Definição clara do problema  
+- Ideação e geração de soluções  
+- Prototipação rápida  
+- Teste com usuários reais  
+
+---
+
+## 🎯 Objetivo
+
+Aplicar uma abordagem centrada no ser humano para resolver problemas complexos, combinando criatividade, colaboração e validação contínua.
+
+---
+
+## 🧩 Princípios Fundamentais
+
+1️⃣ **Empatia** — entender dores, necessidades e comportamentos.  
+2️⃣ **Definição** — transformar insights em um problema claro.  
+3️⃣ **Ideação** — gerar alternativas sem julgamentos.  
+4️⃣ **Prototipação** — criar versões simples para teste rápido.  
+5️⃣ **Teste** — validar se realmente resolve a dor do usuário.
+
+---
+
+## 📘 Caso de Uso (Resumo)
+
+- Uma escola identifica baixa performance em matemática.  
+- Entrevistas revelam dificuldade em visualizar problemas.  
+- A equipe define: *"Como tornar o aprendizado matemático mais visual e intuitivo?"*  
+- Ideação gera apps, jogos e vídeos.  
+- Um protótipo simples do app é criado.  
+- Testes com alunos geram melhorias importantes.
+
+---
+
+## 🌟 Entrega
+
+Material focado no usuário, iterativo e orientado por feedback.
+
+---
+
+**Repositório:**  
+https://github.com/alfredo-allan/Cobit_Itil_Pmbok
+
+
