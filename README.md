@@ -207,5 +207,5 @@ Projeto individual focado em transformar conteúdo teórico em material didátic
 
 **Repositório:**
 
-Repositório: https://github.com/alfredo-allan/seguranca-auditoria-sistemas
-Página: https://alfredo-allan.github.io/seguranca-auditoria-sistemas/
+**Repositório**: https://github.com/alfredo-allan/seguranca-auditoria-sistemas
+**Página**: https://alfredo-allan.github.io/seguranca-auditoria-sistemas/
